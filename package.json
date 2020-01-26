@@ -4,6 +4,9 @@
   "description": "Axios typings for consuming RESTyped APIs",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "tsc"
@@ -20,7 +23,9 @@
   "homepage": "https://github.com/rawrmaan/restyped-axios#readme",
   "dependencies": {
     "axios": "0.18.1",
-    "restyped": "1.1.0",
+    "restyped": "1.1.0"
+  },
+  "devDependencies": {
     "typescript": "^2.9.2"
   }
 }
