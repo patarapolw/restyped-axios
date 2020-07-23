@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/rawrmaan/restyped-axios#readme",
   "dependencies": {
-    "axios": "0.18.1",
+    "axios": "0.19.2",
     "restyped": "1.1.0"
   },
   "devDependencies": {
